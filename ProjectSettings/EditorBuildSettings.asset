@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Auth.unity
+    path: Assets/ProjectFireTestt/Scenes/Auth.unity
     guid: 91def8a0bed9621418428431a18fd452
   - enabled: 1
-    path: Assets/Scenes/Main.unity
+    path: Assets/ProjectFireTestt/Scenes/Main.unity
     guid: e8f8a171ecbf49f469364b7197b4ed77
   m_configObjects: {}
