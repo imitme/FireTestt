@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "376512825962",
+    "firebase_url": "https://firetestt-5ca1a.firebaseio.com",
+    "project_id": "firetestt-5ca1a",
+    "storage_bucket": "firetestt-5ca1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376512825962:android:dada511e0f503529",
+        "android_client_info": {
+          "package_name": "com.imitme.FireTestt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376512825962-48s7mn8ueh3nb6nuc8repbhct5p0313f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWfCpWTS0hWD2nCZ0tgyoj-janG_6qnRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
